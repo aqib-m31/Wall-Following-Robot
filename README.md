@@ -41,3 +41,10 @@ The program was tested on *AlphaBot2-Ar*, with two additional ultrasonic sensors
 - All sensors are functioning and mounted correctly (The left and right sensors are mounted toward the front corners of the robot, still facing directly left and right, to improve wall detection during turns).
 - Bang-bang control for basic wall-following; no PID control is implemented.
 
+
+## Mentored by
+
+Dr Tawseef Ahmed Teli<br>
+Assistant Professor<br>
+Higher Education Department<br>
+Govt. of Jammu and Kashmir, India
